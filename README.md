@@ -1,2 +1,2 @@
 # Word-Embeddings
-Lab practice jupiter notebooks created by deeplearning.ai
+Jupiter notebooks on various implementation steps created by deeplearning.ai
